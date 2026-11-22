@@ -17,7 +17,7 @@ the operating system, and works offline once signed in.
 
 ## Privacy
 
-The app talks only to ShowRunner and Google sign-in, plus lights on your local network. It has no
+The app talks only to ShowRunner, Google sign-in and GitHub Releases (for updates), plus lights on your local network. It has no
 analytics or telemetry.
 
 This repository holds this README and the release installers only.
